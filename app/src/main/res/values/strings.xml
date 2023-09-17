@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShelfApp</string>
+    <string name="register">Register</string>
+    <string name="login_name_hint">Name</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_country_hint">Country</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? <b>Sign Up</b></string>
+    <string name="wrong_pass_format">Password must be of 8 characters with at least 1 alphabet, 1 character and 1 number</string>
+    <string name="success_pass_message">Strong Password</string>
+    <string name="detailed_message">This is a summary written by me as I do not have the individual details of each and every book in the list. Though in an island there were great five nation namely: Village hidden in the leaves, Village hidden in cloud, Village hidden in Sand, Village hidden in Mist and the Village hidden in Earth and they all had the magical beasts that they called tail beasts. They had an unlimited source of energy or chakra in these villages term, they all had one and the great first Hokage distributed to all of them, so to so his and his village intention to keep peace. </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
